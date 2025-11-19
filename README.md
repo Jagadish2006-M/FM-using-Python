@@ -60,13 +60,14 @@ Output Waveform
 
 Tabular Column
 
-![Fm modulation using python](https://github.com/user-attachments/assets/6a61bb88-154b-45ec-902a-2588b438049f)
+![FM using Python 1 Observation](https://github.com/user-attachments/assets/4cf6b90c-29e5-4bf3-a50a-045d524fad51)
 
 
 
 Calculation
 
-![Fm using python page 2](https://github.com/user-attachments/assets/5495b29f-e388-43cd-b643-7f4c17add4c4)
+![Fm uing python Observation 2](https://github.com/user-attachments/assets/82eacf43-cc65-406c-a068-45c0d542e933)
+
 
 
 
